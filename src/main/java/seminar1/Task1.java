@@ -9,7 +9,7 @@ import static org.assertj.core.api.Assertions.*;
 
 public class Task1 {
     public static void main(String[] args) {
-//        weekends();
+        weekends();
 
 //        System.out.println(addNum(1, 5));
 //        System.out.println(addNum(Integer.MAX_VALUE, -1));
@@ -44,7 +44,6 @@ public class Task1 {
         System.out.println(currentDateTime1);
         assert calendar.compareTo(calendar1) <= 0 : "Еще 2023 год :(";
         System.out.println("С новым годом!");
-
 
 
     }
