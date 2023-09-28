@@ -1,4 +1,4 @@
-package hw1.Shop;
+package lesson1.hw1.Shop;
 
 import java.util.Comparator;
 import java.util.List;

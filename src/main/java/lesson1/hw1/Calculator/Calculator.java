@@ -1,4 +1,4 @@
-package hw1.Calculator;
+package lesson1.hw1.Calculator;
 
 public class Calculator {
     public static void main(String[] args) {

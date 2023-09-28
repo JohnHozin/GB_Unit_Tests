@@ -1,4 +1,4 @@
-package lesson1;
+package lesson1.lection1;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

@@ -1,11 +1,9 @@
-package hw1;
+package lesson1.hw1;
 
-import hw1.Shop.Product;
-import hw1.Shop.Shop;
+import lesson1.hw1.Shop.Product;
+import lesson1.hw1.Shop.Shop;
 
 import java.util.ArrayList;
-
-import static org.assertj.core.api.Assertions.*; // Импортируем классы библиотеки assertJ
 
 public class Main {
     public static void main(String[] args) {

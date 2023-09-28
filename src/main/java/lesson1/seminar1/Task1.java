@@ -1,11 +1,9 @@
-package seminar1;
+package lesson1.seminar1;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-
-import static org.assertj.core.api.Assertions.*;
 
 public class Task1 {
     public static void main(String[] args) {

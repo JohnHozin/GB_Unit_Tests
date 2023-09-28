@@ -1,8 +1,10 @@
-package lesson1;
+package lesson1.lection1;
+
+import lesson1.lection1.Calculator;
 
 import static org.assertj.core.api.Assertions.*;
 
-public class CalculatorTests {
+public class CalculatorTest {
     public static void main(String[] args) {
 //        if (8 != Calculator.calculation(2, 6, '+')) {
 //            throw new AssertionError("Ошибка в методе");
@@ -46,3 +48,4 @@ public class CalculatorTests {
 
     }
 }
+

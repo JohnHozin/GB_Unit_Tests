@@ -1,6 +1,4 @@
-package hw1.Calculator;
-
-import hw1.Calculator.Calculator;
+package lesson1.hw1.Calculator;
 
 import static org.assertj.core.api.Assertions.*;
 
