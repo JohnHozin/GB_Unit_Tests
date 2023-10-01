@@ -1,3 +1,5 @@
+package lesson1;
+
 import lesson1.lection1.Calculator;
 import org.junit.jupiter.api.Test;
 

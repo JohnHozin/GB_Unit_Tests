@@ -4,25 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b070124-d181-4d54-840a-7ac9c4352348" name="Changes" comment="make hw1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/lection1/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/hw2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/hw2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/hw2/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/hw2/Vehicle.java" afterDir="false" />
+    <list default="true" id="7b070124-d181-4d54-840a-7ac9c4352348" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/TextUserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/task1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hw2/VehicleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson2/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson2/ShopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw1/Calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/hw1/Calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw1/Calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/hw1/Calculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/hw1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw1/Shop/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/hw1/Shop/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw1/Shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/hw1/Shop/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw1/Shop/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/hw1/Shop/ShopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/lection1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/CalculatorTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/CalculatorTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/lection1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminar1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/seminar1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/CalculatorTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson1/CalculatorTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,92 +47,123 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HomePK/IdeaProjects/unit-tests-2 (Условие ДЗ)",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "D:/javaProjects/unit-tests-2 (Код семинара)",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editing.templates"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaProjects\GB_Unit_Tests\src\test\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
+      <recent name="lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTests.getOperandCompletesCorrectWithNumbers">
-    <configuration name="CalculatorTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorTests" />
-      <module name="GB_Unit_Tests" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson1.hw1.Shop.ShopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.hw1.Shop.ShopTest" />
+  <component name="RunManager" selected="JUnit.VehicleTest">
+    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_Unit_Tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.hw1.Shop.*" />
+          <option name="PATTERN" value="hw2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="hw2" />
+      <option name="MAIN_CLASS_NAME" value="hw2.VehicleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in GB_Unit_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VehicleTest.testCarDriveSpeed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_Unit_Tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTests.getOperandCompletesCorrectWithNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GB_Unit_Tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTests" />
-      <option name="METHOD_NAME" value="getOperandCompletesCorrectWithNumbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw2" />
+      <option name="MAIN_CLASS_NAME" value="hw2.VehicleTest" />
+      <option name="METHOD_NAME" value="testCarDriveSpeed" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTests.multiplicationExpression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VehicleTest.testCarParkingSpeed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_Unit_Tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTests" />
-      <option name="METHOD_NAME" value="multiplicationExpression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw2" />
+      <option name="MAIN_CLASS_NAME" value="hw2.VehicleTest" />
+      <option name="METHOD_NAME" value="testCarParkingSpeed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest.testMotorcycleDriveSpeed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_Unit_Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw2" />
+      <option name="MAIN_CLASS_NAME" value="hw2.VehicleTest" />
+      <option name="METHOD_NAME" value="testMotorcycleDriveSpeed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest.testMotorcycleParkingSpeed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_Unit_Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw2" />
+      <option name="MAIN_CLASS_NAME" value="hw2.VehicleTest" />
+      <option name="METHOD_NAME" value="testMotorcycleParkingSpeed" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lesson1.lection1.CalculatorTests" />
-      <item itemvalue="Application.lesson1.hw1.Shop.ShopTest" />
-      <item itemvalue="JUnit.All in GB_Unit_Tests" />
-      <item itemvalue="JUnit.CalculatorTests.getOperandCompletesCorrectWithNumbers" />
-      <item itemvalue="JUnit.CalculatorTests.multiplicationExpression" />
+      <item itemvalue="JUnit.VehicleTest" />
+      <item itemvalue="JUnit.VehicleTest.testCarDriveSpeed" />
+      <item itemvalue="JUnit.VehicleTest.testCarParkingSpeed" />
+      <item itemvalue="JUnit.VehicleTest.testMotorcycleDriveSpeed" />
+      <item itemvalue="JUnit.VehicleTest.testMotorcycleParkingSpeed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTests.getOperandCompletesCorrectWithNumbers" />
-        <item itemvalue="JUnit.All in GB_Unit_Tests" />
-        <item itemvalue="JUnit.CalculatorTests.multiplicationExpression" />
-        <item itemvalue="Application.lesson1.lection1.CalculatorTests" />
-        <item itemvalue="Application.lesson1.hw1.Shop.ShopTest" />
+        <item itemvalue="JUnit.VehicleTest" />
+        <item itemvalue="JUnit.VehicleTest.testMotorcycleParkingSpeed" />
+        <item itemvalue="JUnit.VehicleTest.testCarParkingSpeed" />
+        <item itemvalue="JUnit.VehicleTest.testMotorcycleDriveSpeed" />
+        <item itemvalue="JUnit.VehicleTest.testCarDriveSpeed" />
       </list>
     </recent_temporary>
   </component>
@@ -150,17 +176,18 @@
       <option name="presentableId" value="Default" />
       <updated>1695647216557</updated>
       <workItem from="1695647218385" duration="4491000" />
-      <workItem from="1695707921836" duration="2569000" />
-      <workItem from="1695724279145" duration="4513000" />
-      <workItem from="1695729455120" duration="5933000" />
-      <workItem from="1695887328819" duration="5674000" />
+      <workItem from="1695707921836" duration="2728000" />
+      <workItem from="1695739387282" duration="5471000" />
+      <workItem from="1695910410495" duration="3764000" />
+      <workItem from="1696007275948" duration="622000" />
+      <workItem from="1696141797061" duration="5628000" />
     </task>
-    <task id="LOCAL-00001" summary="make hw1">
-      <created>1695735597230</created>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1695713676936</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1695735597230</updated>
+      <updated>1695713676936</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -180,11 +207,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="make hw1" />
-    <option name="LAST_COMMIT_MESSAGE" value="make hw1" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
