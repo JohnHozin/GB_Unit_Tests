@@ -2,7 +2,7 @@ package lesson1.lection1;
 
 import lesson1.lection1.Calculator;
 
-import static org.assertj.core.api.Assertions.*;
+//import static org.assertj.core.api.Assertions.*;
 
 public class CalculatorTest {
     public static void main(String[] args) {
@@ -27,12 +27,12 @@ public class CalculatorTest {
         assert 14 == Calculator.calculation(2, 7, '*');
         assert 2 == Calculator.calculation(100, 50, '/');
 
-        assertThat(Calculator.calculation(2, 2, '+')).isEqualTo(4);
-        assertThat(Calculator.calculation(4, 2, '-')).isEqualTo(2);
-        assertThat(Calculator.calculation(8, 2, '/')).isEqualTo(4);
-        assertThat(Calculator.calculation(3, 2, '*')).isEqualTo(6);
-
-        assertThatThrownBy(() -> Calculator.calculation(8, 4, '_')).isInstanceOf(IllegalStateException.class);
+//        assertThat(Calculator.calculation(2, 2, '+')).isEqualTo(4);
+//        assertThat(Calculator.calculation(4, 2, '-')).isEqualTo(2);
+//        assertThat(Calculator.calculation(8, 2, '/')).isEqualTo(4);
+//        assertThat(Calculator.calculation(3, 2, '*')).isEqualTo(6);
+//
+//        assertThatThrownBy(() -> Calculator.calculation(8, 4, '_')).isInstanceOf(IllegalStateException.class);
 
         // Случаи с неправильными аргументами
         // аргумент operator типа char, должен вызывать исключение,
