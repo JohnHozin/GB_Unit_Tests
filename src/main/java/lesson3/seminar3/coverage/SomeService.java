@@ -23,24 +23,35 @@ public class SomeService {
      * 3.2. Метод возвращает true для массивов, которые начинаются или заканчиваются 6, и false - если 6 нет ни в начале ни в конце массива
      */
     public boolean firstLast6(int[] nums) {
-
-        return false;
+        return nums[0] == 6 || nums[nums.length - 1] == 6;
     }
 
 
     /**
      * 3.3. Метод подсчета скидки
      */
-    public double calculatingDiscount(double purchaseAmount, int discountAmount) {
-
-        return purchaseAmount;
-    }
+//    public double calculatingDiscount(double purchaseAmount, int discountAmount) {
+//
+//        return purchaseAmount;
+//    }
 
 
     /**
      * 3.4. Метод принимает на вход 3 числа (int a, b, c). Нужно вернуть их сумму. Однако, если одно из значений равно 13,
      * то оно не учитывается в сумме. Так, например, если b равно 13, то считается сумма только a и c.
      */
-
+    public int luckySum(int a, int b, int c) {
+        int result = 0;
+        if (a != 13) {
+            result += a;
+        }
+        if (b != 13) {
+            result += b;
+        }
+        if (c != 13) {
+            result += c;
+        }
+        return result;
+    }
 
 }
