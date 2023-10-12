@@ -1,4 +1,4 @@
-package hw2;
+package lesson2.hw2;
 
 import lesson2.hw2.Car;
 import lesson2.hw2.Motorcycle;

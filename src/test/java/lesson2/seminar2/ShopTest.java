@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2.seminar2;
 
 import lesson2.seminar2.Cart;
 import lesson2.seminar2.Shop;

@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2.seminar2.task1;
 
 import lesson2.seminar2.task1.Calculator;
 import org.junit.jupiter.api.Test;

@@ -4,19 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b070124-d181-4d54-840a-7ac9c4352348" name="Changes" comment="make lec3">
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson3/hw3/MainHWTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson3/seminar3/tdd/ModAnalyserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson3/seminar3/tdd/UserRepositoryTest.java" afterDir="false" />
+    <list default="true" id="7b070124-d181-4d54-840a-7ac9c4352348" name="Changes" comment="make hw3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/hw4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/hw4/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/hw4/book/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/hw4/book/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/hw4/book/InMemoryBookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/lection4/Mockito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/card/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/card/PaymentForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/database/DataProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/hotel/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/hotel/HotelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/message/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/message/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/weather/WeatherReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/weather/WeatherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/hw4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/hw4/book/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/seminar4/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/seminar4/card/PaymentFormTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/seminar4/database/DataProcessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/seminar4/hotel/BookingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/seminar4/message/NotificationServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/seminar4/weather/WeatherReporterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/hw3/MainHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/hw3/MainHW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/coverage/SomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/coverage/SomeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/tdd/MoodAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/tdd/MoodAnalyser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/tdd/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/tdd/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/tdd/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/tdd/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson3/coverage/SomeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson3/seminar3/coverage/SomeServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson3/tdd/TestDrivenDevelopment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson3/tdd/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson3/seminar3/tdd/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw2/VehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson2/hw2/VehicleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson2/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson2/seminar2/task1/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson2/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson2/seminar2/ShopTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +73,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javaProjects/GB_Unit_Tests/src/main/java/lesson3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaProjects/GB_Unit_Tests/src/test/java/lesson4&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -63,6 +82,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaProjects\GB_Unit_Tests\src\test\java\lesson4" />
+      <recent name="D:\javaProjects\GB_Unit_Tests\src\main\java\lesson4" />
       <recent name="D:\javaProjects\GB_Unit_Tests\src\main\java\lesson3" />
       <recent name="D:\javaProjects\GB_Unit_Tests\src\test\java" />
     </key>
@@ -70,101 +91,105 @@
       <recent name="D:\javaProjects\GB_Unit_Tests\src\test\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson2.seminar2.task1" />
+      <recent name="lesson2.seminar2" />
       <recent name="lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserRepositoryTest">
-    <configuration name="MainHWTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookServiceTest.testBookRepositoryFindById">
+    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_Unit_Tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.hw3.*" />
+          <option name="PATTERN" value="lesson4.hw4.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson3.hw3" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.hw3.MainHWTest" />
+      <option name="PACKAGE_NAME" value="lesson4.hw4.book" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.hw4.book.BookServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModAnalyserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.testBookRepositoryFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_Unit_Tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.seminar3.tdd.*" />
+          <option name="PATTERN" value="lesson4.hw4.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson3.seminar3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.seminar3.tdd.ModAnalyserTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GB_Unit_Tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.seminar3.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson3.seminar3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.seminar3.tdd.UserRepositoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserRepositoryTest.testAddUserTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GB_Unit_Tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.seminar3.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson3.seminar3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.seminar3.tdd.UserRepositoryTest" />
-      <option name="METHOD_NAME" value="testAddUserTrue" />
+      <option name="PACKAGE_NAME" value="lesson4.hw4.book" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.hw4.book.BookServiceTest" />
+      <option name="METHOD_NAME" value="testBookRepositoryFindAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserRepositoryTest.testLogoutAllUsersExceptAdminsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.testBookRepositoryFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_Unit_Tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.seminar3.tdd.*" />
+          <option name="PATTERN" value="lesson4.hw4.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson3.seminar3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.seminar3.tdd.UserRepositoryTest" />
-      <option name="METHOD_NAME" value="testLogoutAllUsersExceptAdminsTrue" />
+      <option name="PACKAGE_NAME" value="lesson4.hw4.book" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.hw4.book.BookServiceTest" />
+      <option name="METHOD_NAME" value="testBookRepositoryFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingServiceTest.testIsAvailableRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_Unit_Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.seminar4.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4.seminar4.hotel" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.seminar4.hotel.BookingServiceTest" />
+      <option name="METHOD_NAME" value="testIsAvailableRoom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProcessorTest.testGetDataFromDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_Unit_Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.seminar4.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4.seminar4.database" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.seminar4.database.DataProcessorTest" />
+      <option name="METHOD_NAME" value="testGetDataFromDatabase" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserRepositoryTest.testLogoutAllUsersExceptAdminsTrue" />
-      <item itemvalue="JUnit.MainHWTest" />
-      <item itemvalue="JUnit.ModAnalyserTest" />
-      <item itemvalue="JUnit.UserRepositoryTest" />
-      <item itemvalue="JUnit.UserRepositoryTest.testAddUserTrue" />
+      <item itemvalue="JUnit.BookServiceTest" />
+      <item itemvalue="JUnit.BookServiceTest.testBookRepositoryFindAll" />
+      <item itemvalue="JUnit.BookServiceTest.testBookRepositoryFindById" />
+      <item itemvalue="JUnit.DataProcessorTest.testGetDataFromDatabase" />
+      <item itemvalue="JUnit.BookingServiceTest.testIsAvailableRoom" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserRepositoryTest" />
-        <item itemvalue="JUnit.UserRepositoryTest.testLogoutAllUsersExceptAdminsTrue" />
-        <item itemvalue="JUnit.MainHWTest" />
-        <item itemvalue="JUnit.ModAnalyserTest" />
-        <item itemvalue="JUnit.UserRepositoryTest.testAddUserTrue" />
+        <item itemvalue="JUnit.BookServiceTest.testBookRepositoryFindById" />
+        <item itemvalue="JUnit.BookServiceTest" />
+        <item itemvalue="JUnit.BookServiceTest.testBookRepositoryFindAll" />
+        <item itemvalue="JUnit.DataProcessorTest.testGetDataFromDatabase" />
+        <item itemvalue="JUnit.BookingServiceTest.testIsAvailableRoom" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +213,14 @@
       <workItem from="1696673949604" duration="1909000" />
       <workItem from="1696699047862" duration="4377000" />
       <workItem from="1696750653276" duration="11684000" />
-      <workItem from="1696795689980" duration="3866000" />
+      <workItem from="1696795689980" duration="5233000" />
+      <workItem from="1696838848475" duration="838000" />
+      <workItem from="1696842117639" duration="1847000" />
+      <workItem from="1696850906621" duration="15590000" />
+      <workItem from="1696955874060" duration="8948000" />
+      <workItem from="1697002628204" duration="5372000" />
+      <workItem from="1697050976965" duration="2055000" />
+      <workItem from="1697119987355" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1695713676936</created>
@@ -211,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696364084415</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="make hw3">
+      <created>1696807576310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696807576310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,16 +271,20 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="make hw2" />
     <MESSAGE value="make lec3" />
-    <option name="LAST_COMMIT_MESSAGE" value="make lec3" />
+    <MESSAGE value="make hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="make hw3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lesson3/seminar3/tdd/UserRepository.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -259,7 +302,7 @@
     <SUITE FILE_PATH="coverage/GB_Unit_Tests$ModAnalyserTest.ic" NAME="ModAnalyserTest Coverage Results" MODIFIED="1696804883202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lesson3.seminar3.tdd.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/GB_Unit_Tests$UserRepositoryTest.ic" NAME="UserRepositoryTest Coverage Results" MODIFIED="1696804919417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/GB_Unit_Tests$UserRepositoryTest.ic" NAME="UserRepositoryTest Coverage Results" MODIFIED="1696807537211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lesson3.seminar3.tdd.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/GB_Unit_Tests$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1696354372916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
